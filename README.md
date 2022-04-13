@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
+
 **vikkthor/vikkthor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on CECYTE
+- 🌱 I’m currently learning nuevas herramientas de programación
+- 👯 I’m looking to collaborate on la programación 
+- 🤔 I’m looking for help with con libros y expertos
+- 💬 Ask me about programación y administración 
+- 📫 How to reach me: 222 489 38 94
+- 😄 Pronouns: Víctor, Gallito
+- ⚡ Fun fact: tema de interes sobre perros y lugares para ir a conocer 
+
