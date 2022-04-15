@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with con libros y expertos
 - 💬 Ask me about programación y administración 
 - 📫 How to reach me: 222 489 38 94
-- 😄 Pronouns: Víctor, Gallito
+- 😄 Pronouns: Víctor, Gallito, inpaciente
 - ⚡ Fun fact: tema de interes sobre perros y lugares para ir a conocer 
 
